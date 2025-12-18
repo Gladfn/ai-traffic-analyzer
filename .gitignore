@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+openai_api_key.txt
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+*.log
+data/model.pkl
+data/live_traffic.csv
+data/alerts.csv
