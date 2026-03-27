@@ -13,3 +13,5 @@ build/
 data/model.pkl
 data/live_traffic.csv
 data/alerts.csv
+venv
+.gitignore
